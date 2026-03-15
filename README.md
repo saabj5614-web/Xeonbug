@@ -90,8 +90,33 @@ nano config.js
 npm start
 # or
 node index.js
+```
+
+## 🤗 Support / Hug the Project
+
+If you like **XeonTGbot**, please consider supporting the project.
+
+⭐ **Star this repository**  
+🍴 **Fork it and contribute**  
+📢 **Share it with others**
+
+Your support helps keep the project alive and improved.
+
+<p align="center">
+  ❤️ Thanks for using <b>XeonTGbot</b>
+</p>
 
 ---
+
+## 👨‍💻 Developer
+
+Created with ❤️ by **SABIR7718**
+
+<p align="center">
+  <a href="https://github.com/SABIR7718">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
+  </a>
+</p>
 
 ## 📢 Official Telegram Channel
 
