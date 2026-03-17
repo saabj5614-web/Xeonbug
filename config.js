@@ -1,4 +1,4 @@
-/*
+g/*
  * © 2026 SeXyxeon (VOIDSEC)
  *
  * ⚠️ COPYRIGHT NOTICE
@@ -24,27 +24,27 @@
  * or termination of the Telegram bot.
  */
 module.exports = {
-    mainToken: 'BOT_TOKEN', // Bot Token Here 
+    mainToken: '8630339916:AAHyDUIf1oPYVKrxq4ormBoJ4187cXkDOaI', // Bot Token Here 
     
-    S7: '@SeXyxeon13', // Owner, Name
+    S7: '@nobita_302_804', // Owner, Name
     
-    adminId: 'CHAT_ID', // Owner Chat ID ( control /address, /delresell )
+    adminId: '7268245780', // Owner Chat ID ( control /address, /delresell )
     
-    channel: 'TG_CHANNEL', // TG channel link
+    channel: 'https://t.me/killer_king_302', // TG channel link
     
-    group: 'GC_LINK', // TG group link
+    group: 'https://t.me/killer_king_804', // TG group link
     
-    youtube: 'YOITUBE_LINK', // YouTube Link
+    youtube: 'https://www.youtube.com/@killerking_804', // YouTube Link
     
-    waChannel: 'WA_LINK', // WhatsApp Channel Link
+    waChannel: 'https://whatsapp.com/channel/0029Vb7fOTnEAKWNxV9ccr3v', // WhatsApp Channel Link
     
-    instagram: 'INSTA_LINK', // Instagram Link 
+    instagram: 'https://www.instagram.com/nobita__baby_302?igsh=ZmxlcGE0emR5a3Bp', // Instagram Link 
     
-    channelId: 'CHANNEL_ID', // channel ID bot must be admin in the channel
+    channelId: '-1003820902141', // channel ID bot must be admin in the channel
     
-    groupId: 'GROUP_ID', // group ID bot must be admin in the group
+    groupId: '-1003799766988', // group ID bot must be admin in the group
     
-    bot: 'Xeon Bug Bot V27', // Bot name 
+    bot: 'killer-King_v8', // Bot name 
     
-    logo: './SY/Loves.jpg' // Bot logo path or URL
+    logo: '.https://files.catbox.moe/nrorlr.jpg' // Bot logo path or URL
 };
